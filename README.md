@@ -1,6 +1,6 @@
 # load and reload
 
- ## 1-) clonar esse repositório
+ 1) clonar esse repositório
 
  Temos um arquivo chamado dados.json vamos trabalhar com ele.
 
